@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@dotdev/next-boost": "^2.1.1",
     "@types/jwt-decode": "^3.1.0",
     "bootstrap": "^5.3.3",
     "classnames": "^2.5.1",
     "formik": "^2.4.6",
+    "lodash": "^4.17.21",
     "next": "14.2.3",
+    "next-compose-plugins": "^2.2.1",
+    "next-images": "^1.8.5",
     "react": "^18",
     "react-dom": "^18"
   }
